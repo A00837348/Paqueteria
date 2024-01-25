@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+class
+{
+    private:
+
+
+    public:
+
+    
+    protected:
+}
